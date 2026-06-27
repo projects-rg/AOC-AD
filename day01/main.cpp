@@ -1,4 +1,4 @@
-// AOC1.cpp : program entry point.
+// main.cpp -> entry point {name change}
 // Day 1: count how many times the safe dial lands on 0.
 
 #include <iostream>
